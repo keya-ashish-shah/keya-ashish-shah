@@ -1,79 +1,62 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**keya-ashish-shah/keya-ashish-shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm Keya Shah  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---># 👋 Hi, I'm Keya Shah  
-
-☁️ Cloud Computing Enthusiast  
-🚀 AWS Learner | DevOps Explorer  
-💡 Passionate about building scalable and cost-efficient systems  
+☁️ **Cloud Computing Enthusiast**  
+🚀 **AWS | DevOps | Scalable Systems**  
+🌱 *Turning ideas into cloud-native solutions*  
 
 ---
 
-## 🧠 About Me  
-- 🎓 Computer Science Student  
-- ☁️ Currently working with AWS Cloud  
-- 🔍 Interested in Cloud Architecture & DevOps  
-- 🌱 Learning: AWS Solutions Architect, Kubernetes, Terraform  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=AWS+Learner+☁️;DevOps+Explorer+⚙️;Building+Scalable+Systems+🚀" />
 
 ---
 
 ## 🚀 Tech Stack  
 
-### ☁️ Cloud & DevOps  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-
-### 💻 Programming  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Bash](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,python,bash,git,github" />
 
 ---
 
-## 📂 Projects  
+## 📂 Featured Projects  
 
 🔹 **Cloud File Storage System**  
-Built using AWS S3, IAM for secure file storage  
+☁️ AWS S3 + IAM | Secure & Scalable  
 
 🔹 **CI/CD Pipeline**  
-Automated deployment using GitHub Actions  
+⚙️ GitHub Actions | Automated Deployments  
 
-🔹 **Scalable Web App Deployment**  
-Deployed on EC2 with Load Balancer  
+🔹 **Web App Deployment**  
+🚀 EC2 + Load Balancer | High Availability  
 
 ---
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
+<img src="https://github-readme-stats.vercel.app/api?username=keya-ashish-shah&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keya-ashish-shah&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 
 ---
 
-## 📈 Activity  
+## 🔥 Contribution Streak  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)  
+<img src="https://streak-stats.demolab.com?user=keya-ashish-shah&theme=tokyonight&hide_border=true" />
 
 ---
 
 ## 🌐 Connect With Me  
 
-📧 Email: keyaashishshah@gmail.com  
-🔗 LinkedIn: www.linkedin.com/in/keya-shah-303587260  
+<a href="www.linkedin.com/in/keya-shah-303587260">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:keyaashishshah@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 
 ---
 
-⭐ *“Building in the cloud, one deployment at a time.”*
+⭐ *"Building in the cloud, one deployment at a time."*  
+
+</div>
