@@ -1,128 +1,80 @@
-<!-- <div align="center">
-
-# 👋 Hey, I'm Keya Shah  
-
-☁️ **Cloud Computing Enthusiast**  
-🚀 **AWS | DevOps | Scalable Systems**  
-🌱 *Turning ideas into cloud-native solutions*  
-
----
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=AWS+Learner+☁️;DevOps+Explorer+⚙️;Building+Scalable+Systems+🚀" />
-
----
-
-## 🚀 Tech Stack  
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,python,bash,git,github" />
-
----
-
-## 📂 Featured Projects  
-
-🔹 **Cloud File Storage System**  
-☁️ AWS S3 + IAM | Secure & Scalable  
-
-🔹 **CI/CD Pipeline**  
-⚙️ GitHub Actions | Automated Deployments  
-
-🔹 **Web App Deployment**  
-🚀 EC2 + Load Balancer | High Availability  
-
----
-
-## 📊 GitHub Stats  
-
-<img src="https://github-readme-stats.vercel.app/api?username=keya-ashish-shah&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keya-ashish-shah&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-
----
-
-## 🔥 Contribution Streak  
-
-<img src="https://streak-stats.demolab.com?user=keya-ashish-shah&theme=tokyonight&hide_border=true" />
-
----
-
-## 🌐 Connect With Me  
-
-<a href="www.linkedin.com/in/keya-shah-303587260">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:keyaashishshah@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
----
-
-⭐ *"Building in the cloud, one deployment at a time."*  
-
-</div> -->
 <div align="center">
 
 # 👩‍💻 Keya Shah  
 
-☁️ **Cloud Engineer in Progress**  
-⚙️ **Dev → Cloud → DevOps Journey**  
-🚀 *Building scalable, automated, cloud-native systems*  
+🚀 **Full Stack Engineer (Aspirant) | Cloud-Ready Developer**  
+☁️ Building **end-to-end, production-grade applications** with scalability in mind  
+⚙️ Code → Deploy → Scale → Automate  
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=From+Code+to+Cloud+☁️;Automating+Everything+⚙️;Learning+by+Building+🚀;Future+Cloud+Architect+💡" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+in+Progress+💻;Cloud+%2B+DevOps+Enthusiast+☁️;Building+Production-Ready+Apps+🚀;From+Idea+to+Deployment+⚙️" />
 
 ---
 
-## 🧭 My Journey  
+## 🔗 Connect & Profiles  
 
-</div>
+<a href="https://leetcode.com/u/5z6V2fgn2Z/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+</a>
 
-### 👩‍💻 Phase 1: Developer  
-- Built applications using **Python & Linux**  
-- Focused on problem-solving & core programming  
-- Learned version control using Git  
-
----
-
-### ☁️ Phase 2: Cloud Explorer  
-- Working with AWS services (EC2, S3, IAM)  
-- Deploying applications on cloud infrastructure  
-- Understanding cost optimization & scalability  
+<a href="https://www.linkedin.com/in/keya-shah-303587260/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
 
 ---
 
-### ⚙️ Phase 3: DevOps Learner  
-- Building CI/CD pipelines using GitHub Actions  
-- Learning Docker & containerization  
-- Exploring Kubernetes & infrastructure automation  
+## 🧠 What I Bring  
+
+💡 I don’t just build apps — I build **systems**  
+
+- 🔹 Full stack development with real-world architecture  
+- 🔹 Cloud deployment & infrastructure understanding  
+- 🔹 Focus on **scalability, performance, and clean design**  
+- 🔹 Strong foundation in **problem-solving & core CS concepts**  
 
 ---
 
-<div align="center">
+## 🧭 My Engineering Journey  
+
+### 💻 Developer First  
+- Built applications using **Python, JavaScript**  
+- Strong focus on **DSA & problem solving**  
+- Version control with Git & GitHub  
+
+### ☁️ Cloud Integration  
+- Deploying apps using **AWS (EC2, S3, IAM)**  
+- Learning **system design basics & scalability**  
+- Understanding real-world infra  
+
+### ⚙️ DevOps Mindset  
+- CI/CD pipelines with **GitHub Actions**  
+- Containerization using **Docker**  
+- Exploring **Kubernetes & automation**  
+
+---
 
 ## 🚀 Tech Stack  
 
-<img src="https://skillicons.dev/icons?i=python,linux,git,github,docker,kubernetes,aws,bash" />
+<img src="https://skillicons.dev/icons?i=js,python,react,nodejs,express,linux,git,github,docker,kubernetes,aws,bash" />
 
 ---
 
-## 🏗️ What I'm Building  
+## 🏗️ Featured Work  
 
-</div>
+🔹 **Cloud File Storage System**  
+→ Secure file handling using AWS S3 + IAM  
+→ Focus: scalability + access control  
 
-- 🔹 **Cloud File Storage System**  
-  → AWS S3 + IAM (secure storage system)  
+🔹 **CI/CD Pipeline Setup**  
+→ Automated build & deploy using GitHub Actions  
+→ Focus: developer efficiency  
 
-- 🔹 **CI/CD Pipeline**  
-  → Automated deployment using GitHub Actions  
-
-- 🔹 **Scalable Web Deployment**  
-  → EC2 + Load Balancer  
+🔹 **Production Web Deployment**  
+→ Hosted on EC2 with load balancing  
+→ Focus: high availability & uptime  
 
 ---
-
-<div align="center">
 
 ## 📊 GitHub Insights  
 
@@ -140,24 +92,21 @@
 
 ## 🎯 Current Focus  
 
-☁️ AWS Solutions Architect  
-⚙️ Terraform & Infrastructure as Code  
-🚀 Kubernetes & Scaling Systems  
+- ☁️ AWS Solutions Architect Path  
+- ⚙️ Infrastructure as Code (Terraform)  
+- 🚀 Scalable backend systems  
+- 🧠 Advanced DSA + System Design  
 
 ---
 
-## 🌐 Connect  
+## 💬 Engineering Philosophy  
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+> “Good code works. Great code scales.”  
 
-<a href="mailto:your-email@example.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+> “If you can build it locally, you should be able to deploy it globally.”  
 
 ---
 
-⭐ *"From writing code to designing systems."*  
+⭐ *From writing functions → to designing systems → to scaling products*  
 
 </div>
