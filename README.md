@@ -155,7 +155,7 @@ what happens when this scales? what breaks first? and how do I not be surprised 
 ## ⚙️ What I Work With  
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,python,react,nodejs,express,linux,git,github,docker,aws,bash" />
+<img src="https://skillicons.dev/icons?i=js,html,css,javascript,bootstrap,tailwind,react,nodejs,express,mongodb,postgres,python,git,github,aws" />
 </div>
 
 <br/>
